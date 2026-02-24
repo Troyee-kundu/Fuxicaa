@@ -4,23 +4,16 @@
 
 A responsive landing page built with HTML5 and CSS3 featuring smooth animations and modern UI design.
 
-Table of Contents
+## Table of Contents
 
-Background
-
-Features
-
-Install
-
-Usage
-
-Built With
-
-Contributing
-
-Maintainers
-
-License
+- [Background](#background)
+- [Features](#features)
+- [Install](#install)
+- [Usage](#usage)
+- [Built With](#built-with)
+- [Contributing](#contributing)
+- [Maintainers](#maintainers)
+- [License](#license)
 
 ## Background
 
@@ -58,7 +51,8 @@ Clone the repository:
 
 git clone https://github.com/Troyee-kundu/Fuxicaa.git
 cd Fuxicaa
-Usage
+
+## Usage
 
 Open the index.html file in your browser:
 
@@ -74,13 +68,13 @@ Text content in index.html
 
 Images and assets as needed
 
-#Built-With
+## Built With
 
-#HTML5
+HTML5
 
-#CSS3
+CSS3
 
-Contributing
+## Contributing
 
 Feel free to open an issue or submit a pull request.
 
